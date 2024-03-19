@@ -1,20 +1,30 @@
-base point
-1.階層はPRSの課題のまま
-2.使うhtml要素はdivのみ
-  header,main,footerが適切に使用されている回答は少ないため、
-  この段階でこの区別はなくても良いように感じます。
+# flex_divpuzzle
 
-point
-1.flexが適切に使用されている
-  ・justify-contentとalign-itemsで中央寄せができる
-  ・flexのみ指定した場合の特徴の理解
+## Contents
 
-2.classの認識
-  ・1つのクラスを複数回呼び出す
-  ・1つのdivに複数のクラスの指定
+- [Base](#base)
+- [Point](#point)
 
-3.padding,marginへの理解
-  ・それぞれの意味の違いを理解した利用
-  ・余分な余白の削除
-    first-child,last-childの認識はあった方がいいと思い、
-    各1回ずつ残しています。
+## Base
+
+1. 階層は PRS の課題のまま
+2. 使う html 要素は div のみ
+
+- header,main,footer が適切に使用されている回答は少なく、この段階で区別はなくても良いように感じます。
+
+## Point
+
+1. flex が適切に使用されている
+
+- justify-content と align-items で中央寄せができる
+- flex のみ指定した場合の特徴の理解
+
+2. class の認識
+
+- 1 つのクラスを複数回呼び出す
+- 1 つの div に複数のクラスの指定
+
+3. padding,margin への理解
+
+- それぞれの意味の違いを理解した利用
+- 余分な余白の削除
