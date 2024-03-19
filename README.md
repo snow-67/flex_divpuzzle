@@ -1,5 +1,4 @@
 # flex_divpuzzle
-<!-- コメント待ち -->
 
 ## Contents
 
