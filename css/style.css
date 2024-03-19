@@ -1,10 +1,6 @@
 @charset "UTF-8";
 
-body {
-  margin: 0;
-}
-
-.flex{
+.flex {
   display: flex;
   justify-content: end;
   align-items: center;
